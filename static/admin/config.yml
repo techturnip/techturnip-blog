@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: techturnip/gatsby-portfolio-blog
+  repo: techturnip/techturnip-blog
 
 media_folder: content/assets
 public_folder: ../assets
